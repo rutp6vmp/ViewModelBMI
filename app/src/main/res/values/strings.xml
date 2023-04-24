@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewModelBMI</string>
+    <string name="display">0</string>
+    <string name="setHeight">身高</string>
+    <string name="inputHeight">請輸入身高</string>
+    <string name="setWeight">0</string>
+    <string name="inputWeight">請輸入體重</string>
+    <string name="weight">體重</string>
+    <string name="button">Count</string>
+    <string name="reload">reload</string>
+    <string name="content" />
+    <string name="press_to_submit_the_form">Press to submit the form</string>
+</resources>
